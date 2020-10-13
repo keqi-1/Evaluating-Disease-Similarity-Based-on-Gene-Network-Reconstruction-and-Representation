@@ -1,0 +1,4 @@
+all_gene_disease_associations 存储疾病与基因之间的关系
+humannet 存储HumanNet中的基因关联
+gene_go 存储GENE与GO_term之间的关系
+path 存储GeneOntology中GO_term之间的继承关系
